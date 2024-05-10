@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Chiheon Oh
+Chiheon Oh
+SKKU Student
 
 Show Contacts
 
 Email
-richard@example.com
+chiheon2004@gmail.com
 
 Phone
-+1 (213) 352-2795
+010-2307-57966
 
 Birthday
-June 23, 1982
+October 26, 2004
 
 Location
-Sacramento, California, USA
+SKKU dorm Ji-Kwan, Suwon-Si, South Korea
 
 # navbar
 
